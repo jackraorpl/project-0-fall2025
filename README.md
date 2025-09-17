@@ -66,7 +66,7 @@ Submit the link you just copied via our official Google Form.
 
 ## Deadline
 
--   The final deadline for submission is **Friday, October 3, 2025, at 11:59 PM PDT.**
+-   The final deadline for submission is **Friday, October 10, 2025, at 11:59 PM PDT.**
 -   Late submissions will not be accepted.
 
 ## Getting Help
