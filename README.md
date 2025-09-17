@@ -51,7 +51,7 @@ Once you have answered all the questions, you need to generate a shareable link 
 Submit the link you just copied via our official Google Form.
 
 -   **Action:**
-    1.  Go to the [**Project 0 Submission Form**](https://forms.gle/YOUR_FORM_LINK_HERE).
+    1.  Go to the [**Project 0 Submission Form**](https://forms.gle/smNvuCwWoAVhsH2GA).
     2.  Fill in your name and email.
     3.  Paste the shareable link to your notebook in the appropriate field.
     4.  Submit the form.
@@ -71,4 +71,4 @@ Submit the link you just copied via our official Google Form.
 
 ## Getting Help
 
-If you get stuck on a technical issue or have a question, please post it in the `#onboarding-help` channel on our [**Discord Server**](https://discord.gg/YOUR_INVITE_LINK). Do not send direct messages. Asking in the public channel allows others to learn from your question.
+If you get stuck on a technical issue or have a question, please post it in the `#onboarding-help` channel on our [**Discord Server**](https://discord.gg/ZJBr5tnb53). Do not send direct messages. Asking in the public channel allows others to learn from your question.
